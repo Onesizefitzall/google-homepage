@@ -1,4 +1,4 @@
-google-homepage
+Google Homepage
 ===============
 
 HTML/CSS Project:The Google homepage!
