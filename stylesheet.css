@@ -1,0 +1,121 @@
+body {
+	font-family: Arial;
+	font-size: 14px;
+}
+
+
+.head {
+	text-align: right;
+	margin: 20px;
+}
+
+
+
+a {
+	position: relative;
+	text-decoration: none;
+	color: #404040;
+	margin: 10px 7px 10px 1px;
+
+}
+  
+
+li {
+	display: inline-block;
+
+}
+
+.sign_in {
+	background-color: #4285f4;
+	color:white;
+	padding: 7px 11px 7px 11px;
+	border-radius: 7%;
+	font-weight: bold
+
+}
+
+img {
+	position: relative;
+	margin: auto;
+	width: 20%;
+	height: auto;
+	display: block;
+	top: 140px;
+	
+
+}
+
+#searchbox {
+	height: 25px;
+	width: 580px;
+	border: solid #666666;
+	border-width: 1px;
+	display: block;
+	position: relative;
+	margin: auto;
+	top:160px;
+
+}
+
+.content, {
+	border: solid black 1px #404040;
+	display: block;
+	position: relative;
+	font-weight: bold;
+
+}
+
+input {
+	display: block;
+	border-color: #F5F5F5;
+}
+
+
+div {
+	display: block;
+}
+
+.logo {
+
+	padding: 100px;
+}
+
+.search_buttons {
+	padding: 180px;
+	text-align: center;
+	
+}
+
+.search {
+	background-color: #F5F5F5;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	border-radius: 5%;
+}
+
+.footer {
+	display: inline-block;
+	background-color: #f2f2f2;
+	border: solid 1px #e4e4e4;
+	position: relative;
+	top: 40px;
+	padding: 0px 40px;
+	font-size: 13px;
+	margin: 0px;
+
+}
+
+ul {
+	position: relative;
+	display: inline-block;
+
+
+}
+
+
+.settings { 
+	text-align: right;
+	padding-left: 880px;
+}
